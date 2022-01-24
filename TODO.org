@@ -15,10 +15,8 @@ says in the =<title>= tag or have it include the `Welcome ' to the front of the 
 * People
 Most recent member to be placed ahead of the others.
 
-** TODO Update people's list
-Update the list with the current group members.
-
-** TODO Change title to Dr and update status
+** DONE Change title to Dr and update status
+CLOSED: [2022-01-25 Tue 03:42]
 - Kee Seng
 
 ** TODO Add end date for postdocs
@@ -32,7 +30,8 @@ Update the list with the current group members.
 - Yagi Junya: 
 - Ashwinkumar: meer.ashwinkumar@ipmu.jp
 
-** TODO Remove emails
+** DONE Remove emails
+CLOSED: [2022-01-25 Tue 03:42]
 - Lennart
 - Benjo
 - Zhao Qin
