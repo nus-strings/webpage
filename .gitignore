@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# Except this file
+!.gitignore
+
+# Except html and htm files
+!public_html/
+!**.htm*
+
+# Except nusstyles
+!public_html/style
+!nusstyles*
+
+# Except htaccess
+!.htaccess*
+
+# Except Org files
+!*.org

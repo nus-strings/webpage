@@ -1,0 +1,29 @@
+p, body, ol, ul, li, form {
+	COLOR: black; FONT-FAMILY: Verdana, "Trebuchet MS", Arial, Helvetica; FONT-SIZE: 12px; LINE-HEIGHT: 16px
+}
+table, td, th{
+	COLOR: black; FONT-FAMILY: Verdana, "Trebuchet MS", Arial, Helvetica; FONT-SIZE: 12px; 
+}
+H2 {
+	COLOR: #003399; FONT-FAMILY: Verdana, "Trebuchet MS", Arial, Helvetica; FONT-SIZE: 17px; FONT-WEIGHT: bold; LINE-HEIGHT: 20px
+}
+H4 {
+	COLOR: #003399; FONT-FAMILY: Verdana, "Trebuchet MS", Arial, Helvetica; FONT-SIZE: 12px; FONT-WEIGHT: bold; LINE-HEIGHT: 16px
+}
+H5 {
+	COLOR: #003399; FONT-FAMILY: Verdana, "Trebuchet MS", Arial, Helvetica; FONT-SIZE: 12px; FONT-STYLE: italic; FONT-WEIGHT: bold; LINE-HEIGHT: 16px
+}
+EM {
+	COLOR: #003399; FONT-FAMILY: Verdana, "Trebuchet MS", Arial, Helvetica; FONT-SIZE: 12px; FONT-STYLE: italic; FONT-WEIGHT: normal; LINE-HEIGHT: 16px
+}
+VAR {
+	FONT-FAMILY: Verdana, "Trebuchet MS", Arial, Helvetica; FONT-SIZE: 10px; FONT-STYLE: normal; LINE-HEIGHT: 14px
+}
+A:link { 
+	COLOR: #003399 
+}
+A:visited {
+	COLOR:#9999cc
+}
+.copyright {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #999999;LINE-HEIGHT: 12px}
+.v11px {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;LINE-HEIGHT: 14px}
