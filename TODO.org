@@ -37,7 +37,8 @@ CLOSED: [2022-01-25 Tue 03:42]
 - Zhao Qin
 - Jingnan
 
-** TODO Add new Ph.D. students
+** DONE Add new Ph.D. students
+CLOSED: [2022-01-25 Tue 23:52]
 - Arif
 - Wenhan
 
