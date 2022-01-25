@@ -1,0 +1,27 @@
+#+TITLE: Links
+
+	
+* Literature resource and discussion forums
+
+- [[http://arxiv.org/][arXiv.org]]
+- [[http://physics.stackexchange.com/][Stackexchange - Physics]]
+- [[http://mathoverflow.net/][MathOverflow]]
+
+ 		
+* Conferences and workshops
+
+- [[https://ims.nus.edu.sg/events/string-and-m-theory-the-new-geometry-of-the-21st-century-ii/][String and M-Theory: The New Geometry of the 21st Century II]]
+- [[https://imsarchives.nus.edu.sg/oldwww2/events/2018/wstring/vl.html][String and M-Theory: The New Geometry of the 21st Century]]
+- [[http://www.stringwiki.org/w/index.php?title=Conferences][Schools and Conferences on String Theory and Related Topics]]
+- [[http://www.conference-service.com/conferences/high-energy-physics-and-accelerators.html][Conferences and Meetings on High Energy Physics, Particles and Fields]]
+
+* Other interesting links
+
+- [[http://superstringtheory.com/][The Official String Theory Website (Deprecated)]]
+- [[http://whystringtheory.com/][The informative String Theory Website]]
+- [[https://cerncourier.com/a/black-holes-and-qubits/][Black Holes and Qubits]]
+- [[http://www.nature.com/news/2010/101019/full/news.2010.547.html][String Theory Tackles Strange Metals]]
+
+* String Theory and its Role in 21st Century Mathematics
+
+- [[https://www.youtube.com/watch?v=e_UnaD_u1MU][YouTube Video]]
