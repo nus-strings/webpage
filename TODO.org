@@ -9,7 +9,8 @@ Introduction to the group.
 It currently shows `the NUS String Theory Group!'. Either get it to show what it
 says in the =<title>= tag or have it include the `Welcome ' to the front of the string.
 
-** TODO Fix metadata
+** DONE Fix metadata
+CLOSED: [2022-01-26 Wed 01:43]
 =<description>= and =<keywords>= tags are incomplete.
 
 * People
