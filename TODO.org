@@ -44,14 +44,17 @@ CLOSED: [2022-01-25 Tue 23:52]
 
 * Research
 
-** TODO Change title to Dr
+** DONE Change title to Dr
+CLOSED: [2022-01-25 Tue 23:52]
 - HL
 - Kee Seng
 
-** TODO Remove names
+** DONE Remove names
+CLOSED: [2022-01-25 Tue 23:52]
 - Benjo
 
-** TODO Change description
+** DONE Change description
+CLOSED: [2022-01-25 Tue 23:52]
 *** Kee Seng
 The Physics and Mathematics of Supersymmetric Quantum Field Theories. 
 
