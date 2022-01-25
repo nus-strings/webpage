@@ -1,3 +1,6 @@
+#+TITLE: People
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/nusstyles.css" />
+
 * People
 ** Faculty (Group Head)
 *** Assoc. Prof. Meng-Chwan Tan

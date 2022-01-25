@@ -1,4 +1,5 @@
 #+TITLE: Publications
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/nusstyles.css" />
 
 * 2021
 

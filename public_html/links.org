@@ -1,5 +1,5 @@
 #+TITLE: Links
-
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/nusstyles.css" />
 	
 * Literature resource and discussion forums
 
@@ -7,7 +7,6 @@
 - [[http://physics.stackexchange.com/][Stackexchange - Physics]]
 - [[http://mathoverflow.net/][MathOverflow]]
 
- 		
 * Conferences and workshops
 
 - [[https://ims.nus.edu.sg/events/string-and-m-theory-the-new-geometry-of-the-21st-century-ii/][String and M-Theory: The New Geometry of the 21st Century II]]

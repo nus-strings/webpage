@@ -1,4 +1,5 @@
 #+TITLE: Research
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/nusstyles.css" />
 
 * Assoc. Prof. Meng-Chwan Tan
 

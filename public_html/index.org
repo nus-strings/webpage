@@ -1,3 +1,6 @@
+#+TITLE: Homepage
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/nusstyles.css" />
+
 * Welcome to the NUS String Theory Group!
 String theory is the leading candidate for a unified theory of all the four fundamental forces of our universe which is supposed to explain physics at all scales. It has also been a rich source of inspiration for new mathematics, with recent applications even to quantum information theory and the study of strange metals.
 
