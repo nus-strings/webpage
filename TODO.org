@@ -113,7 +113,8 @@ https://arxiv.org/abs/2109.04302
 * Links
 Additional resources and related materials for selected events.
 
-** TODO Include Part 2 of New Geometry of String Theory seminar
+** DONE Include Part 2 of New Geometry of String Theory seminar
+CLOSED: [2022-01-26 Wed 00:15]
 https://ims.nus.edu.sg/events/string-and-m-theory-the-new-geometry-of-the-21st-century-ii/
 
 ** TODO Update links to past events
