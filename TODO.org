@@ -5,7 +5,7 @@
 * Home
 Introduction to the group.
 
-** TODO Fix Google search result
+** PROG Fix Google search result
 It currently shows `the NUS String Theory Group!'. Either get it to show what it
 says in the =<title>= tag or have it include the `Welcome ' to the front of the string.
 
@@ -120,7 +120,8 @@ Additional resources and related materials for selected events.
 CLOSED: [2022-01-26 Wed 00:15]
 https://ims.nus.edu.sg/events/string-and-m-theory-the-new-geometry-of-the-21st-century-ii/
 
-** TODO Update links to past events
+** DONE Update links to past events
+CLOSED: [2022-01-26 Wed 22:51]
 - The New Geometry of the 21st Century Part I
   https://imsarchives.nus.edu.sg/oldwww2/events/2018/wstring/vl.html
 - Official String Theory website
