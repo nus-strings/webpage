@@ -14,7 +14,7 @@
 *** Dr. Meer Ashwinkumar
 :PROPERTIES:
 :START: July 2018
-:LEFT:     2021
+:LEFT:     October 2020
 :EMAIL:    meer.ashwinkumar@ipmu.jp
 :END:
 *** Dr. Lennart Schmidt

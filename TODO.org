@@ -21,7 +21,7 @@ CLOSED: [2022-01-25 Tue 03:42]
 - Kee Seng
 
 ** TODO Add end date for postdocs
-- Ashwin:
+- Ashwin: October 2020
 - Lennart Schmidt:
 - Benjo Fraser:
 
