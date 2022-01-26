@@ -25,7 +25,7 @@
 *** Dr. Benjo Fraser
 :PROPERTIES:
 :START:    October 2019
-:LEFT:     2021
+:LEFT:     September 2020
 :END:
 *** Dr. HL Dao
 :PROPERTIES:
@@ -58,7 +58,7 @@
 :PROPERTIES:
 :START:    September 2012
 :LEFT:     September 2013
-:EMAIL:    junya.yagi@fuw.edu.pl
+:EMAIL:    junyagi@gmail.com
 :WEBSITE:  https://sites.google.com/site/junyagi/
 :END:
 *** Dr. Jian Zhao

@@ -20,15 +20,17 @@ Most recent member to be placed ahead of the others.
 CLOSED: [2022-01-25 Tue 03:42]
 - Kee Seng
 
-** TODO Add end date for postdocs
+** DONE Add end date for postdocs
+CLOSED: [2022-01-26 Wed 12:16]
 - Ashwin: October 2020
 - Lennart Schmidt: July 2021
-- Benjo Fraser:
+- Benjo Fraser: September 2020
 
-** TODO Search and update emails with current ones
+** DONE Search and update emails with current ones
+CLOSED: [2022-01-26 Wed 12:18]
 - Yata Masaya: m-yata@juntendo.ac.jp
 - Petr Vasko: vasko@ipnp.mff.cuni.cz
-- Yagi Junya: 
+- Yagi Junya: junyagi@gmail.com
 - Ashwinkumar: meer.ashwinkumar@ipmu.jp
 
 ** DONE Remove emails
