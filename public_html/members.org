@@ -20,7 +20,7 @@
 *** Dr. Lennart Schmidt
 :PROPERTIES:
 :START: February 2019
-:LEFT:     2021
+:LEFT:     July 2021
 :END:
 *** Dr. Benjo Fraser
 :PROPERTIES:

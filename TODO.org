@@ -22,7 +22,7 @@ CLOSED: [2022-01-25 Tue 03:42]
 
 ** TODO Add end date for postdocs
 - Ashwin: October 2020
-- Lennart Schmidt:
+- Lennart Schmidt: July 2021
 - Benjo Fraser:
 
 ** TODO Search and update emails with current ones
