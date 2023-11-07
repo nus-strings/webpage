@@ -7,7 +7,7 @@ SetEnv SERVER_ADMIN arif.er@u.nus.edu
 ServerSignature EMail
 
 # Deny access to .org files
-<Files ~ "\.org$">  
+<Files ~ "\.org$">
 Order Allow,Deny
 Deny from All
 </Files>
