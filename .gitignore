@@ -15,8 +15,9 @@
 # Except htaccess
 !.htaccess*
 
-# Except Org files
-!*.org
+# Except files in the public_org directory
+!public_org/
+!public_org/**/*.org
 
 # Except images in the resources directory
 !*.jpg

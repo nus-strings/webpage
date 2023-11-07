@@ -1,0 +1,214 @@
+﻿#+TITLE:     NUS style
+#+AUTHOR:    Arif Er
+#+EMAIL:     (concat "arif.er" at-sign "u.nus.edu")
+#+DESCRIPTION:
+#+KEYWORDS:  NUS
+#+LANGUAGE:  en
+#+OPTIONS:   H:4 num:t toc:2
+
+#+SETUPFILE: ~/org/theme-readtheorg.setup
+
+# See http://pandoc.org/README.html for another organization of the sections
+
+* Overview
+
+Get the lowdown on the key pieces of ReadTheOrg's infrastructure, including our
+approach to better HTML export.
+
+* Typography
+  :PROPERTIES:
+  :header-args: :tangle nusstyles.css
+  :END:
+
+#+begin_src css
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Roboto+Slab:400,700|Inconsolata:400,700");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
+#+end_src
+
+** Headings
+
+#+begin_src css
+  h1,h2,h3,h4,h5,h6,legend{
+      color:#003399;
+      font-family:Verdana,"Trebuchet MS",Arial,Helvetica;
+      font-weight:bold;
+  }
+
+  h1{
+      font-size:20px;
+  }
+
+  h2{
+      font-size:12px;
+      line-height:16px;
+  }
+
+  h3{
+      font-size:12px;
+      line-height:16px;
+  }
+
+  h4{
+      font-size:12px;
+      line-height:16px;
+  }
+
+  h5{
+      font-size:12px;
+      line-height:16px;
+      font-style:italic;
+  }
+
+  em{
+      font-size:12px;
+      line-height:16px;
+      font-weight:normal;
+      font-style:italic;
+  }
+#+end_src
+
+** Body
+
+#+begin_src css
+html{
+    -ms-text-size-adjust:100%;
+    -webkit-text-size-adjust:100%;
+    font-size:100%;
+    height:100%;
+    overflow-x:hidden;
+}
+
+body{
+    background:#edf0f2;
+    color:#404040;
+    font-family:"Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    font-weight:normal;
+    margin:0;
+    min-height:100%;
+    overflow-x:hidden;
+}
+
+#content{
+    background:#fcfcfc;
+    height:100%;
+    margin-left:300px;
+    /* margin:auto; */
+    max-width:800px;
+    min-height:100%;
+    padding:1.618em 3.236em;
+}
+
+p{
+    font-size:16px;
+    line-height:24px;
+    margin:0px 0px 24px 0px;
+}
+#+end_src
+
+** Bold
+
+#+begin_src css
+b,strong{
+    font-weight:bold}
+#+end_src
+
+** Blockquotes
+
+#+begin_src css
+blockquote{
+    background-color: #F0F0F0;
+    border-left:5px solid #CCCCCC;
+    font-style:italic;
+    line-height:24px;
+    margin:0px 0px 24px 0px;
+    /* margin-left:24px; */
+    padding: 6px 20px;
+}
+#+end_src
+
+** Lists
+
+#+begin_src css
+ul,ol,dl{
+    line-height:24px;
+    list-style-image:none;
+    /* list-style:none; */
+    margin:0px 0px 24px 0px;
+    padding:0;
+}
+#+end_src
+
+#+begin_src css
+li{
+    margin-left: 24px;
+}
+
+dd{
+    margin:0;
+}
+#+end_src
+
+#+begin_src css
+#content .section ul,#content .toctree-wrapper ul,article ul{
+    list-style:disc;
+    line-height:24px;
+    margin-bottom:24px}
+
+#content .section ul li,#content .toctree-wrapper ul li,article ul li{
+    list-style:disc;
+    margin-left:24px}
+
+#content .section ul li p:last-child,#content .toctree-wrapper ul li p:last-child,article ul li p:last-child{
+                                                                                                                                  margin-bottom:0}
+
+#content .section ul li ul,#content .toctree-wrapper ul li ul,article ul li ul{
+    margin-bottom:0}
+
+#content .section ul li li,#content .toctree-wrapper ul li li,article ul li li{
+    list-style:circle}
+
+#content .section ul li li li,#content .toctree-wrapper ul li li li,article ul li li li{
+    list-style:square}
+
+#content .section ul li ol li,#content .toctree-wrapper ul li ol li,article ul li ol li{
+    list-style:decimal}
+
+#content .section ol,#content ol,article ol{
+    list-style:decimal;
+    line-height:24px;
+    margin-bottom:24px}
+
+#content .section ol li,#content ol li,article ol li{
+    list-style:decimal;
+    margin-left:24px}
+
+#content .section ol li p:last-child,#content ol li p:last-child,article ol li p:last-child{
+                                                                                                                           margin-bottom:0}
+
+#content .section ol li ul,#content ol li ul,article ol li ul{
+    margin-bottom:0}
+
+#content .section ol li ul li,#content ol li ul li,article ol li ul li{
+    list-style:disc}
+#+end_src
+
+*** Unordered
+
+*** Ordered
+
+*** Description
+
+#+begin_src css
+dl dt{
+    font-weight:bold;
+}
+
+dl p,dl table,dl ul,dl ol{
+    margin-bottom:12px !important;
+}
+
+dl dd{
+    margin:0 0 12px 24px;
+}
+#+end_src
+
