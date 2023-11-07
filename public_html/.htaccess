@@ -14,3 +14,6 @@ Deny from All
 
 # Return 404 NOT FOUND to hidden files and directories
 RedirectMatch 404 /\..*$
+
+# Temporary measure to redirect old homepage to new homepage
+Redirect /~strings/index.htm /~strings/index.html
