@@ -1,0 +1,23 @@
+---
+baseURL: "https://phyweb.nus.edu.sg/~strings/"
+languageCode: en-US
+title: NUS String Theory
+copyright: © 2024 NUS String Theory Group
+
+theme: PaperMod
+
+params:
+  env: production
+  profileMode:
+    enabled: true
+    title: Welcome to the NUS String Theory Group Webpage!
+  showtoc: true
+  disableThemeToggle: false
+  schema.publisherType: Organization
+  math: true
+
+
+outputs:
+  home:
+    - HTML
+    - JSON # necessary for search
