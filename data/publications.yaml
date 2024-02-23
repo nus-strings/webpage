@@ -1,0 +1,169 @@
+---
+
+data:
+  - year: 2006
+    publications:
+      - arxiv: 0604179
+        authors: M.-C. Tan
+        title: |
+           Two-Dimensional Twisted Sigma Models And The Theory of Chiral
+           Differential Operators
+        url: https://arxiv.org/abs/hep-th/0604179
+        journal: Adv. Theor. Math. Phys. 10 (2006) 759-851
+
+  - year: 2007
+    publications:
+      - arxiv: 0705.0790
+        authors: M.-C. Tan
+        title: |
+          Two-Dimensional Twisted Sigma Models, the Mirror Chiral de Rham
+          Complex, and Twisted Generalised Mirror Symmetry
+        url: https://arxiv.org/abs/0705.0790
+        journal: JHEP 07 (2007) 013
+
+  - year: 2008
+    publications:
+
+      - arxiv: 0607199
+        authors: M.-C. Tan
+        title: |
+          The Half-Twisted Orbifold Sigma Model and the Chiral de Rham Complex
+        url: https://arxiv.org/abs/hep-th/0607199
+        journal: Adv. Theor. Math. Phys. 12 (2008) 547-604
+
+      - arxiv: 0710.5796
+        authors: M.-C. Tan
+        title: |
+          Gauging Spacetime Symmetries on the Worldsheet and the Geometric
+          Langlands Program
+        url: https://arxiv.org/abs/0710.5796
+        journal: JHEP 03 (2008) 033
+
+      - arxiv: 0801.4782
+        authors: M.-C. Tan, J. Yagi
+        title: |
+          Chiral Algebras of (0,2) Sigma Models: Beyond Perturbation Theory
+        url: https://arxiv.org/abs/0801.4782
+        journal: Lett. Math. Phys. 84 (2008) 257-273
+
+      - arxiv: 0804.0804
+        authors: M.-C. Tan
+        title: |
+          Gauging Spacetime Symmetries On The Worldsheet And The Geometric
+          Langlands Program -- II
+        url: https://arxiv.org/abs/0804.0804
+        journal: JHEP 09 (2008) 074
+
+      - arxiv: 0805.1410
+        authors: M.-C. Tan, J. Yagi
+        title: |
+          Chiral Algebras of (0,2) Sigma Models: Beyond Perturbation Theory - II
+        url: https://arxiv.org/abs/0805.1410
+        journal: Lett. Math. Phys. 84 (2008) 257-273
+
+  - year: 2019
+    publications:
+      - arxiv: 1906.09776
+        authors: H.-L. Dao, P. Karndumri
+        title: |
+          dS5 Vacua from Matter-Coupled 5D N=4 Gauged Supergravity
+        url: https://arxiv.org/abs/1906.09776
+        journal: Eur. Phys. J. C (2019) 79.9:804
+
+      - arxiv: 1907.01778
+        authors: H.-L. Dao, P. Karndumri
+        title: |
+          dS4 Vacua from Matter-Coupled 4D N=4 Gauged Supergravity
+        url: https://arxiv.org/abs/1907.01778
+        journal: Eur. Phys. J. C (2019) 79.9:800
+
+      - arxiv: 1908.08086
+        authors: C. Saemann, L. Schmidt
+        title: |
+           Towards an M5-Brane Model II: Metric String Structures
+        url: https://arxiv.org/abs/1908.08086
+        journal: Fortschr. Phys. 68 (2020) 2000051
+
+      - arxiv: 1909.04058
+        authors: M. Ashwinkumar, K.-S. Png, M.-C. Tan
+        title: |
+          Boundary N=2 Theory, Floer Homologies, Affine Algebras, and the
+          Verlinde Formula
+        url: https://arxiv.org/abs/1909.04058
+        journal: Adv. Theor. Math. Phys. 25 (2021) 1-58
+
+      - arxiv: 1910.01134
+        authors: M. Ashwinkumar, M.-C. Tan
+        title: |
+          Unifying Lattice Models, Links and Quantum Geometric Langlands via
+          Branes in String Theory
+        url: https://arxiv.org/abs/1910.01134
+        journal: Adv. Theor. Math. Phys. 24 (2020) 1681-1721
+
+  - year: 2020
+    publications:
+      - arxiv: 2003.08931
+        authors: M. Ashwinkumar
+        title: Integrable Lattice Models and Holography
+        url: https://arxiv.org/abs/2003.08931
+        journal: JHEP 02 (2021) 227
+
+      - arxiv: 2008.06053
+        authors: M. Ashwinkumar, K.-S. Png, M.-C. Tan
+        title: |
+          4d Chern-Simons Theory as a 3d Toda Theory, and a 3d-2d Correspondence
+        url: https://arxiv.org/abs/2008.06053
+        journal: JHEP 09 (2021) 057
+
+  - year: 2021
+    publications:
+      - arxiv: 2102.06512
+        authors: H.-L. Dao
+        title: |
+          Cosmological solutions from 4D \(N=4\) matter-coupled supergravity
+        url: https://arxiv.org/abs/2102.06512
+        journal: J. Phys. Commun. 5 105007 (2021)
+
+      - arxiv: 2103.06666
+        authors: M. Ashwinkumar, L. Schmidt, M.-C. Tan
+        title: |
+          Matrix Quantization of Classical Nambu Brackets and Super p-Branes
+        url: https://arxiv.org/abs/2103.06666
+        journal: JHEP 07 (2021) 172
+
+      - arxiv: 2109.04302
+        authors: J. Aspman, E. Furrer, G. Korpas, Z.-C. Ong, M.-C. Tan
+        title: |
+          The \(u\)-plane integral as a bridge between enumerative geometry and
+          number theory
+        url: https://arxiv.org/abs/2109.04302
+        journal:
+
+  - year: 2022
+    publications:
+      - arxiv: 2203.17115
+        authors: Z.-C. Ong, M.-C. Tan
+        title: |
+          Vafa-Witten Theory: Invariants, Floer Homologies, Higgs Bundles, a
+          Geometric Langlands Correspondence, and Categorification
+        url: https://arxiv.org/abs/2203.17115
+        journal: To appear in ATMP
+
+  - year: 2023
+    publications:
+      - arxiv: 2305.15965
+        authors: Z.-C. Ong, M.-C. Tan
+        title: |
+          Topological-Holomorphic \(\mathcal{N}=4\) Gauge Theory: From Langlands
+          Duality of Holomorphic Invariants to Mirror Symmetry of
+          Quasi-topological Strings
+        url: https://arxiv.org/abs/2305.15965
+        journal:
+
+      - arxiv: 2311.18302
+        authors: A. Er, Z.-C. Ong, M.-C. Tan
+        title: |
+          Topological 5d \(\mathcal{N}=2\) Gauge Theory: Novel Floer Homologies,
+          their Dualities, and an \(A_\infty\)-category of Three-Manifolds
+        url: https://arxiv.org/abs/2311.18302
+        journal:

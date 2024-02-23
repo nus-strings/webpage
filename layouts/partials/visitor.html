@@ -1,0 +1,5 @@
+<ul>
+    {{ range $member := . }}
+        <li>{{ $member.name }} ({{ delimit $member.visits ", " }})</li>
+    {{ end }}
+</ul>

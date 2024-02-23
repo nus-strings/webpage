@@ -1,0 +1,247 @@
+---
+
+faculty:
+  - id: tan-meng-chwan
+    name: Meng-Chwan Tan
+    title: Assoc. Prof.
+    email: mctan@nus.edu.sg
+    website: https://www.physics.nus.edu.sg/staff/tanmc.html
+    office: S12-02-08
+    telephone: (65) 6516-5376
+    image: images/members/tanmengchwan.jpg
+    square_image: true
+    weight: -1
+
+fellows:
+  - id: zhi-cong
+    name: Ong Zhi-Cong
+    title: Dr.
+    email: ozcong@u.nus.edu
+    start: March 2023
+    left:
+    image: images/members/ongzhicong.jpg
+    weight: -11
+
+  - id: hl-dao
+    name: HL Dao
+    title: Dr.
+    email: hl.dao@u.nus.edu
+    start: August 2020
+    left: August 2022
+    image: images/members/hldao.png
+    weight: -10
+
+  - id: ashwin
+    name: Meer Ashwinkumar
+    title: Dr.
+    email: meer.ashwinkumar@ipmu.jp
+    start: July 2018
+    left: October 2020
+    image: images/members/ashwin2.jpg
+    weight: -9
+
+  - id: benjo-fraser
+    name: Benjo Fraser
+    title: Dr.
+    email:
+    start: October 2019
+    left: September 2020
+    image: images/members/benjo.jpg
+    weight: -8
+
+  - id: schmidt
+    name: Lennart Schmidt
+    title: Dr.
+    email:
+    start: February 2019
+    left: July 2021
+    image: images/members/Len.jpg
+    weight: -7
+
+  - id: qin-zhao
+    name: Qin Zhao
+    title: Dr.
+    email:
+    start: January 2016
+    left: August 2018
+    image: images/members/zhaoqin.jpg
+    weight: -6
+
+  - id: yuan-luo
+    name: Yuan Luo
+    title: Dr.
+    email:
+    start: September 2014
+    left: October 2016
+    image: images/members/luoyuan.jpg
+    weight: -5
+
+  - id: masaya-yata
+    name: Masaya Yata
+    title: Dr.
+    email: m-yata@juntendo.ac.jp
+    start: September 2015
+    left: August 2016
+    image: images/members/yata.png
+    weight: -4
+
+  - id: petr-vaoks
+    name: Petr Vasko
+    title: Dr.
+    email: vasko@ipnp.mff.cuni.cz
+    start: September 2015
+    left: August 2016
+    image: images/members/vasko.jpg
+    weight: -3
+
+  - id: junya-yagi
+    name: Junya Yagi
+    title: Dr.
+    email: junyagi@gmail.com
+    start: September 2012
+    left: September 2013
+    website: https://sites.google.com/site/junyagi/
+    image: images/members/yagi.jpg
+    weight: -2
+
+  - id: jian-zhao
+    name: Jian Zhao
+    title: Dr.
+    email:
+    start: September 2012
+    left: September 2013
+    image: images/members/jianzhao.jpg
+    weight: -1
+
+students:
+  - id: chengzhuo
+    name: Tan Chengzhuo
+    title: Mr.
+    email: e0952272@u.nus.edu
+    left:
+    image: images/members/chengzhuo.jpg
+    weight: -6
+
+  - id: zhangcheng
+    name: Zhangcheng Liu
+    title: Mr.
+    email: liuzhangcheng@u.nus.edu
+    left:
+    image: images/members/zhangcheng.jpg
+    weight: -5
+
+  - id: arif-er
+    name: Arif Er
+    title: Mr.
+    email: arif.er@u.nus.edu
+    left:
+    image: images/members/arif.jpg
+    weight: -4
+
+  - id: zhang-wen-han
+    name: Zhang Wen Han
+    title: Mr.
+    email: zhangwenhan@u.nus.edu
+    left: 2023
+    image: images/members/wenhan.jpg
+    weight: -3
+
+  - id: kee-seng
+    name: Kee-Seng Png
+    title: Dr.
+    email: ks.png@nus.edu.sg
+    left: 2021
+    image: images/members/keeseng.jpg
+    weight: -2
+
+  - id: jingnan-cao
+    name: Jingnan Cao
+    title: Dr.
+    email:
+    left: 2017
+    image: images/members/jingnan.jpg
+    weight: -1
+
+visitors:
+  - id: takuya-okuda
+    name: Takuya Okuda
+    visits:
+      - September 2013
+      - February 2020
+
+  - id: djordje-radicevic
+    name: Djordje Radicevic
+    visits:
+      - March 2019
+
+  - id: masahito-yamazaki
+    name: Masahito Yamazaki
+    visits:
+      - January 2019
+
+  - id: ashoke-sen
+    name: Ashoke Sen
+    visits:
+      - December 2018
+
+  - id: ang-jian-peng
+    name: Jian-Peng Ang
+    visits:
+      - July 2018
+
+  - id: wu-siye
+    name: Siye Wu
+    visits:
+      - June 2018
+
+  - id: benjo-fraser
+    name: Benjo Fraser
+    visits:
+      - June 2018
+
+  - id: junya-yagi
+    name: Junya Yagi
+    visits:
+      - March 2018
+
+  - id: shamit-kachru
+    name: Shamit Kachru
+    visits:
+      - February 2018
+
+  - id: eric-sharpe
+    name: Eric Sharpe
+    visits:
+      - January 2018
+
+  - id: jock-mcorist
+    name: Jock McOrist
+    visits:
+      - December 2017
+
+  - id: taro-kimura
+    name: Taro Kimura
+    visits:
+      - August 2017
+
+  - id: amin-a-nizami
+    name: Amin A. Nizami
+    visits:
+      - January 2017
+
+  - id: cohl-furey
+    name: Cohl Furey
+    visits:
+      - January 2017
+
+  - id: ori-j-ganor
+    name: Ori J. Ganor
+    visits:
+      - December 2011
+      - April 2013
+      - January 2016
+
+  - id: kazuo-hosomichi
+    name: Kazuo Hosomichi
+    visits:
+      - September 2013

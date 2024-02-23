@@ -1,0 +1,24 @@
+{{ range $year := sort .data "year" "desc" }}
+    <br><br>
+    <section>
+        <h3 id="{{ $year.year }}"><b>{{ $year.year }}</b></h3>
+    </section>
+    {{ with $year.publications }}
+        {{ range $publication := sort . "arxiv" "desc" }}
+            <ul>
+                <a href="{{ $publication.url }}">{{ $publication.title }}</a>
+                <br>
+                {{ $publication.authors }}
+                <br>
+                <i>
+                    {{ with $publication.journal }}
+                        {{ . }}
+                    {{ else }}
+                        arXiv:{{ $publication.arxiv }}
+                    {{ end }}
+                </i>
+            </ul>
+            <br>
+        {{ end }}
+    {{ end }}
+{{ end }}
