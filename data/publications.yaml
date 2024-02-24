@@ -1,5 +1,4 @@
 ---
-
 data:
   - year: 2006
     publications:
@@ -61,6 +60,306 @@ data:
         url: https://arxiv.org/abs/0805.1410
         journal: Lett. Math. Phys. 84 (2008) 257-273
 
+  - year: 2009
+    publications:
+      - arxiv: 0612164
+        authors: M.-C. Tan
+        title: |
+          Equivariant Cohomology Of The Chiral de Rham Complex And The
+          Half-Twisted Gauged Sigma Model
+        url: https://arxiv.org/abs/hep-th/0612164
+        journal: Adv. Theor. Math. Phys. 13 (2009) 897-946
+
+      - arxiv: 0904.1744
+        authors: M.-C. Tan
+        title: |
+          Surface Operators in Abelian Gauge Theory
+        url: https://arxiv.org/abs/0904.1744
+        journal: JHEP 05 (2009) 104
+
+      - arxiv: 0906.2413
+        authors: M.-C. Tan
+        title: |
+          Surface Operators in N=2 Abelian Gauge Theory
+        url: https://arxiv.org/abs/0906.2413
+        journal: JHEP 09 (2009) 047
+
+  - year: 2010
+    publications:
+      - arxiv: 0807.1107
+        authors: M.-C. Tan
+        title: |
+          Five-Branes in M-Theory and a Two-Dimensional Geometric Langlands
+          Duality
+        url: https://arxiv.org/abs/0807.1107
+        journal: Adv. Theor. Math. Phys. 14 (2010) 179-224
+
+      - arxiv: 1011.0947
+        authors: H. Liu, J. Yang, J. Zhao
+        title: |
+          Matrix Model and Refined Wall-Crossing Formula
+        url: https://arxiv.org/abs/1011.0947
+        journal:
+
+  - year: 2011
+    publications:
+      - arxiv: 0912.4261
+        authors: M.-C. Tan
+        title: |
+          Integration Over The u-Plane In Donaldson Theory With Surface Operators
+        url: https://arxiv.org/abs/0912.4261
+        journal: JHEP 05 (2011) 007
+
+      - arxiv: 1002.0028
+        authors: J. Yagi
+        title: |
+          Vanishing Chiral Algebras and Hohn-Stolz Conjecture
+        url: https://arxiv.org/abs/1002.0028
+        journal: Proceedings of String-Math 2011 Conference
+
+      - arxiv: 1006.3313
+        authors: M.-C. Tan
+        title: |
+          Supersymmetric Surface Operators, Four-Manifold Theory and Invariants
+          in Various Dimensions
+        url: https://arxiv.org/abs/1006.3313
+        journal: Adv. Theor. Math. Phys. 15 (2011) 071-130
+
+      - arxiv: 1107.2787
+        authors: G. Bonelli, A. Tanzini, J. Zhao
+        title: |
+          The Liouville side of the Vortex
+        url: https://arxiv.org/abs/1107.2787
+        journal: JHEP 09 (2011) 096
+
+  - year: 2012
+    publications:
+      - arxiv: 0912.1891
+        authors: M.-C. Tan
+        title: |
+          Notes on the "Ramified" Seiberg-Witten Equations and Invariants]
+        url: https://arxiv.org/abs/0912.1891
+        journal: JHEP 01 (2012) 067
+
+      - arxiv: 1001.0118
+        authors: J. Yagi
+        title: |
+          Chiral Algebras of (0,2) Models
+        url: https://arxiv.org/abs/1001.0118
+        journal: Adv. Theor. Math. Phys. 16 (2012) 1
+
+      - arxiv: 1102.0184
+        authors: G. Bonelli, A. Tanzini, J. Zhao
+        title: |
+          Vertices, Vortices & Interacting Surface Operators]
+        url: https://arxiv.org/abs/1102.0184
+        journal: JHEP 06 (2012) 178
+
+      - arxiv: 1111.0691
+        authors: M.-C. Tan
+        title: |
+          Quasi-Topological Gauged Sigma Models, The Geometric Langlands
+          Program, And Knots
+        url: https://arxiv.org/abs/1111.0691
+        journal: Adv. Theor. Math. Phys. 19 (2015) 2
+
+      - arxiv: 1111.7095
+        authors: J. Zhao
+        title: |
+          Orbifold Vortex and Super Liouville Theory
+        url: https://arxiv.org/abs/1111.7095
+        journal:
+
+      - arxiv: 1112.0260
+        authors: J. Yagi
+        title: |
+          On the six-dimensional origin of the AGT correspondence
+        url: https://arxiv.org/abs/1112.0260
+        journal: JHEP 02 (2012) 020
+
+      - arxiv: 1205.6820
+        authors: J. Yagi
+        title: |
+          Compactification on the \(\Omega\)-background and the AGT
+          correspondence
+        url: https://arxiv.org/abs/1205.6820
+        journal: JHEP 09 (2012) 101
+
+  - year: 2013
+    publications:
+      - arxiv: 1301.1977
+        authors: M.-C. Tan
+        title: |
+          M-theoretic Derivations of 4d-2d Dualities: From a Geometric Langlands
+          Duality for Surfaces, to the AGT correspondence, to Integrable Systems
+        url: https://arxiv.org/abs/1301.1977
+        journal: JHEP 07 (2013) 171
+
+      - arxiv: 1302.3227
+        authors: Y. Luo and M.-C. Tan
+        title: |
+          A Topological Chern-Simons Sigma Model and New Invariants of
+          Three-Manifolds
+        url: https://arxiv.org/abs/1302.3227
+        journal: JHEP 02 (2014) 067
+
+      - arxiv: 1305.0291
+        authors: J. Yagi
+        title: |
+          3d TQFT from 6d SCFT
+        url: https://arxiv.org/abs/1305.0291
+        journal: JHEP 08 (2013) 017
+
+      - arxiv: 1309.4775
+        authors: M.-C. Tan
+        title: |
+          An M-theoretic Derivation of a 5d and 6d AGT Correspondence, and
+          Relativistic and Elliptized Integrable Systems
+        url: https://arxiv.org/abs/1309.4775
+        journal: JHEP 12 (2013) 031
+
+      - arxiv: 1310.0827
+        authors: Y. Luo, M.-C. Tan and J. Yagi
+        title: |
+          N=2 Supersymmetric Gauge Theories and Quantum Integrable Systems
+        url: https://arxiv.org/abs/1310.0827
+        journal: JHEP 03 (2014) 090
+
+      - arxiv: 1312.5494
+        authors: M.-C. Tan
+        title: |
+          Nonlocal Operators and Duality in Abelian Gauge Theory on a General
+          Four-Manifold
+        url: https://arxiv.org/abs/1312.5494
+        journal: arXiv:1312.5494
+
+  - year: 2014
+    publications:
+      - arxiv: 1410.1538
+        authors: Y. Luo, M.-C. Tan, J. Yagi, Q. Zhao
+        title: |
+          \(\Omega\)-deformation of B-twisted gauge theories and the 3d-3d
+          correspondence
+        url: https://arxiv.org/abs/1410.1538
+        journal: JHEP 02 (2015) 047
+
+  - year: 2015
+    publications:
+      - arxiv: 1512.07629
+        authors: M. Ashwinkumar, J. Cao, Y. Luo, M.-C. Tan, Q. Zhao
+        title: |
+          Little Strings, Quasi-topological Sigma Model on Loop Group, and
+          Toroidal Lie Algebras
+        url: https://arxiv.org/abs/1512.07629
+        journal: Nucl. Phys. B 928 (2018) 469-498
+
+  - year: 2016
+    publications:
+      - arxiv: 1601.05429
+        authors: M. Faizal, Y. Luo, D. J. Smith, M.-C. Tan, Q. Zhao
+        title: |
+          Gauge and Supersymmetry Invariance of N=2 Boundary Chern-Simons Theory
+        url: https://arxiv.org/abs/1601.05429
+        journal: Nucl. Phys. B 914 (2017) 577-598
+
+      - arxiv: 1601.05589
+        authors: T. Kimura, S. Sasaki, M. Yata
+        title: |
+          World-volume Effective Action of Exotic Five-brane in M-theory
+        url: https://arxiv.org/abs/1601.05589
+        journal: JHEP 02 (2016) 168
+
+      - arxiv: 1607.08330
+        authors: M.-C. Tan
+        title: |
+          Higher AGT Correspondences, W-algebras, and Higher Quantum Geometric
+          Langlands Duality from M-Theory
+        url: https://arxiv.org/abs/1607.08330
+        journal: Adv. Theor. Math. Phys. 22 (2018) 429-507
+
+      - arxiv: 1608.01436
+        authors: S. Sasaki, M. Yata
+        title: |
+          Non-geometric Five-branes in Heterotic Supergravity
+        url: https://arxiv.org/abs/1608.01436
+        journal: JHEP 11 (2016) 064
+
+      - arxiv: 1612.09191
+        authors: M. Ashwinkumar, M.-C. Tan
+        title: |
+          Open Gauged Sigma Models, Equivariant Branes, and Equivariant
+          Homological Mirror Symmetry
+        url: https://arxiv.org/abs/1612.09191
+        journal: Phys. Rev. D 97 (2018) 066010
+
+
+  - year: 2017
+    publications:
+      - arxiv: 1701.03298
+        authors: Y. Luo, M.-C. Tan, P. Vasko, Q. Zhao
+        title: |
+          Four-Dimensional N = 2 Supersymmetric Theory with Boundary as a
+          Two-Dimensional Complex Toda Theory
+        url: https://arxiv.org/abs/1701.03298
+        journal: JHEP 05 (2017) 121
+
+      - arxiv: 1705.03942
+        authors: A. Bhat, S. Dey, M. Faizal, C. Hou, Q. Zhao
+        title: |
+          Modification of Schroedinger-Newton equation due to braneworld models
+          with minimal length
+        url: https://arxiv.org/abs/1705.03942
+        journal: Phys. Lett. B 770 (2017) 325-330
+
+      - arxiv: 1707.00636
+        authors: Q. Zhao, M. Faizal, Z. Zaz
+        title: |
+          Short distance modification of the quantum virial theorem
+        url: https://arxiv.org/abs/1707.00636
+        journal: Phys. Lett. B 770 (2017) 564–568
+
+      - arxiv: 1710.06919
+        authors: |
+          Q. Zhao, M. Faizal, M. B. Shah, A. Bhat, P. A. Ganai, Z. Zaz, S.
+          Masood, J. Raza, R. M. Irfan
+        title: |
+          Non-Local Deformation of a Supersymmetric Field Theory
+        url: https://arxiv.org/abs/1710.06919
+        journal: Eur. Phys. J. C (2017) 77:612
+
+  - year: 2018
+    publications:
+      - arxiv: 1802.09916
+        authors: M. Faizal, Q. Zhao, C. Hou, Z. Zaz
+        title: |
+          Short Distance Modification of a Gravitational System and its Optical
+          Analog
+        url: https://arxiv.org/abs/1802.09916
+        journal: Eur. Phys. J. D (2019) 73:101
+
+      - arxiv: 1806.02821
+        authors: M. Ashwinkumar, M.-C. Tan, Q. Zhao
+        title: |
+          Branes and Categorifying Integrable Lattice Models
+        url: https://arxiv.org/abs/1806.02821
+        journal: Adv. Theor. Math. Phys. 24 (2020) 1-24
+
+      - arxiv: 1811.01608
+        authors: H.-L. Dao, P. Karndumri
+        title: |
+          Holographic RG Flows and AdS5 Black Strings from 5D Half-Maximal
+          Gauged Supergravity
+        url: https://arxiv.org/abs/1811.01608
+        journal: Eur. Phys. J. C (2019) 79.2:137
+
+      - arxiv: 1812.10122
+        authors: H.-L. Dao, P. Karndumri
+        title: |
+          Supersymmetric AdS5 Black Holes and Strings from 5D N=4 Gauged
+          Supergravity
+        url: https://arxiv.org/abs/1812.10122
+        journal: Eur. Phys. J. C (2019) 79.3:247
+
   - year: 2019
     publications:
       - arxiv: 1906.09776
@@ -117,6 +416,13 @@ data:
 
   - year: 2021
     publications:
+      - arxiv: 2101.11905
+        authors: H.-L. Dao
+        title: |
+          Cosmological solutions from 5D \(N=4\) matter-coupled supergravity
+        url: https://arxiv.org/abs/2101.11905
+        journal:
+
       - arxiv: 2102.06512
         authors: H.-L. Dao
         title: |
