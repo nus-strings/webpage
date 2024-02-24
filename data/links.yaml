@@ -1,0 +1,42 @@
+---
+
+content:
+  - id: 1
+    title: Literature resource and discussion forums
+    links:
+      - name: arXiv.org
+        url: http://arxiv.org/
+      - name: Stackexchange - Physics
+        url: http://physics.stackexchange.com/
+      - name: MathOverflow
+        url: http://mathoverflow.net/
+
+  - id: 2
+    title: Conferences and Workshops
+    links:
+      - name: "String and M-Theory: The New Geometry of the 21st Century II"
+        url: "https://ims.nus.edu.sg/events/string-and-m-theory-the-new-geometry-of-the-21st-century-ii/"
+      - name: "String and M-Theory: The New Geometry of the 21st Century"
+        url: "https://imsarchives.nus.edu.sg/oldwww2/events/2018/wstring/vl.html"
+      - name: Schools and Conferences on String Theory and Related Topics
+        url: http://www.stringwiki.org/w/index.php?title=Conferences
+      - name: Conferences and Meetings on High Energy Physics, Particles and Fields
+        url: http://www.conference-service.com/conferences/high-energy-physics-and-accelerators.html
+
+  - id: 3
+    title: Other Interesting Links
+    links:
+      - name: The Official String Theory Website (Deprecated)
+        url: http://superstringtheory.com/
+      - name: The informative String Theory Website
+        url: http://whystringtheory.com/
+      - name: Black Holes and Qubits
+        url: https://cerncourier.com/a/black-holes-and-qubits/
+      - name: String Theory Tackles Strange Metals
+        url: http://www.nature.com/news/2010/101019/full/news.2010.547.html
+
+  - id: 4
+    title: Videos
+    links:
+      - name: String Theory and its Role in 21st Century Mathematics
+        yt: e_UnaD_u1MU

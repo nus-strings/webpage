@@ -1,0 +1,30 @@
+---
+
+active:
+  - id: tan-meng-chwan
+    research:
+      - M-theory, string theory, quantum field theory, and their deep
+        implications for contemporary mathematics.
+      - Emergent spacetime in quantum theories of gravity.
+  - id: ashwin
+    research:
+      - The physics and mathematics of superstrings and supersymmetric quantum
+        field theories.
+  - id: schmidt
+    research:
+      - Higher gauge theories and \(L_\infty\) algebras in M-theory.
+  - id: hl-dao
+    research:
+      - Gauged supergravity in various dimensions.
+  - id: kee-seng
+    research:
+      - The physics and mathematics of supersymmetric quantum field theories.
+  - id: zhi-cong
+    research:
+      - The physics and mathematics of superstrings and supersymmetric quantum
+        field theories.
+  - id: arif-er
+    research:
+      - The physics and mathematcis of supersymmetric quantum field theories.
+
+inactive:

@@ -1,0 +1,22 @@
+<!-- Getting the name and title from members.yaml -->
+{{ $members := slice }}
+{{ with $.ctx.Site.Data.members }}
+    {{ range $category := . }}
+        {{ range $member := . }}
+            {{ $members = append $member $members }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+<!-- Getting the research topics from research.yaml -->
+{{ range $member := .feature }}
+    {{ range where $members "id" $member.id | first 1 }}
+        <a href="{{ relURL "members" }}#{{ $member.id }}">{{ .title }} {{ .name }}</a>
+    {{ end }}
+    {{ with $member.research }}
+        {{ range $research_topic := . }}
+            <li>{{ . }}</li>
+        {{ end  }}
+    {{ end }}
+    <br>
+{{ end }}

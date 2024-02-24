@@ -1,0 +1,52 @@
+---
+baseURL: "https://phyweb.nus.edu.sg/~strings/"
+languageCode: en-US
+title: NUS String Theory
+copyright: © 2024 NUS String Theory Group
+
+theme: PaperMod
+
+params:
+  env: production
+  profileMode:
+    enabled: true
+    title: Welcome to the NUS String Theory Group Webpage!
+    buttons:
+      - name: About
+        url: about/
+      - name: Publications
+        url: publications/
+      - name: Members
+        url: members/
+  showtoc: true
+  disableThemeToggle: false
+  schema.publisherType: Organization
+  math: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: members
+      name: Members
+      url: /members/
+      weight: 2
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 3
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 4
+    - identifier: links
+      name: Links
+      url: /links/
+      weight: 5
+
+outputs:
+  home:
+    - HTML
+    - JSON # necessary for search

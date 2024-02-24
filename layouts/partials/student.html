@@ -1,0 +1,56 @@
+{{ range $member := sort . "weight" }}
+    {{ $image_size := "90x120 webp" }}
+    {{ if $member.square_image }}
+        {{ $image_size = "200x200 webp" }}
+    {{ end }}
+<ul>
+    {{ with .image }}
+        {{ with resources.Get . }}
+            <li>
+            <div class="img-container">
+                {{ with .Fill $image_size }}
+                <div class="image">
+                    <img width="{{ .Width }}" height="{{ .Height }}"
+                         alt="{{ $member.name }}" src={{ .RelPermalink }}>
+                </div>
+                {{ end }}
+                <div class="img-text">
+                    <b>{{ $member.title }} {{ $member.name }}</b>
+                    {{ with $member.office }}
+                        <br>
+                        {{ . }}
+                    {{ end }}
+                    {{ with $member.telephone }}
+                        <br>
+                        {{ $member.telephone }}
+                    {{ end }}
+                    {{ with $member.start }}
+                        <br>
+                        {{ . }} --
+                            {{ with $member.left }}
+                                {{ . }}
+                            {{ end }}
+                    {{ else }}
+                        {{ with $member.left }}
+                            <br>
+                            (Graduated -- {{ . }})
+                        {{ end }}
+                    {{ end }}
+                    {{ with $member.email }}
+                        <br>
+                        Email: <a href="mailto:{{ $member.email }}">
+                            {{ $member.email }}</a>
+                    {{ end }}
+                    {{ with $member.website }}
+                        <br>
+                        <a href="{{ $member.website }}">{{ $member.website }}</a>
+                    {{ end }}
+                </div>
+            </div>
+            </li>
+        {{ else }}
+            {{ errorf "The member partial was unable to find %q" .  }}
+        {{ end }}
+    {{ end }}
+</ul>
+{{ end }}
