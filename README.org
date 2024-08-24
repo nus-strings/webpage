@@ -1,0 +1,19 @@
+#+TITLE: NUS String Theory Group Webpage Generator
+
+This repository builds the webpage for the NUS String Theory Group webpage
+hosted at [[https://phyweb.physics.nus.edu.sg/~strings/]].
+
+*** For editors
+
+Any changes to the data that needs to be reflected on the webpage should be made
+in the [[./data][data]] directory. Simply follow the templated data structure, and the
+website will be built without much human intervention.
+
+To include images for group members, add them to the [[./assets/images/][images]] directory.
+
+To edit or create new pages, add an Hugo-compatible Markdown file in the [[./content][content]]
+directory and make sure to create the appropriate "buttons" and menu items in
+[[./config.yaml][config.yaml]].
+
+To customise the theme, refer to the documentation for the chosen theme. The
+current chosen theme is [[https://github.com/adityatelange/hugo-PaperMod][PaperMod]].
