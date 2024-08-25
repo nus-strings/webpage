@@ -421,7 +421,7 @@ data:
         title: |
           Cosmological solutions from 5D \(N=4\) matter-coupled supergravity
         url: https://arxiv.org/abs/2101.11905
-        journal:
+        journal: J. Phys. Commun. 6 025003 (2022)
 
       - arxiv: 2102.06512
         authors: H.-L. Dao
@@ -443,7 +443,7 @@ data:
           The \(u\)-plane integral as a bridge between enumerative geometry and
           number theory
         url: https://arxiv.org/abs/2109.04302
-        journal:
+        journal: Lett Math Phys 112, 30 (2022)
 
   - year: 2022
     publications:
