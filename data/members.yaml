@@ -115,7 +115,7 @@ fellows:
 
 students:
   - id: chengzhuo
-    name: Tan Chengzhuo
+    name: Chengzhuo Tan
     title: Mr.
     email: e0952272@u.nus.edu
     left:
@@ -139,7 +139,7 @@ students:
     weight: -4
 
   - id: zhang-wen-han
-    name: Zhang Wen Han
+    name: Wen Han Zhang
     title: Mr.
     email: zhangwenhan@u.nus.edu
     left: 2023
