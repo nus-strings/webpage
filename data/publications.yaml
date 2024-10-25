@@ -473,3 +473,13 @@ data:
           their Dualities, and an \(A_\infty\)-category of Three-Manifolds
         url: https://arxiv.org/abs/2311.18302
         journal:
+
+  - year: 2024
+    publications:
+      - arxiv: 2410.18575
+        authors: A. Er, M.-C. Tan
+        title: |
+          Topological 8d \(\mathcal{N}=1\) Gauge Theory: Novel Floer Homologies,
+          and \(A_\infty\)-categories of Six, Five, and Four-Manifolds
+        url: https://arxiv.org/abs/2410.18575
+        journal:
