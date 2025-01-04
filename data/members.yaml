@@ -120,7 +120,7 @@ students:
     email: e0952272@u.nus.edu
     left:
     image: images/members/chengzhuo.jpg
-    weight: -6
+    weight: -5
 
   - id: zhangcheng
     name: Zhangcheng Liu
@@ -128,7 +128,7 @@ students:
     email: liuzhangcheng@u.nus.edu
     left:
     image: images/members/zhangcheng.jpg
-    weight: -5
+    weight: -4
 
   - id: arif-er
     name: Arif Er
@@ -136,14 +136,6 @@ students:
     email: arif.er@u.nus.edu
     left:
     image: images/members/arif.jpg
-    weight: -4
-
-  - id: zhang-wen-han
-    name: Wen Han Zhang
-    title: Mr.
-    email: zhangwenhan@u.nus.edu
-    left: 2023
-    image: images/members/wenhan.jpg
     weight: -3
 
   - id: kee-seng
