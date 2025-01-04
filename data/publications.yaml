@@ -457,6 +457,15 @@ data:
 
   - year: 2023
     publications:
+      - arxiv: 2305.15948
+        authors: M.-C. Tan
+        title: |
+          Vafa-Witten Theory: Invariants, Floer Homologies, Higgs Bundles, a
+          Geometric Langlands Correspondence, and Categorification (String Math 2022
+          Proceedings)
+        url: https://arxiv.org/abs/2305.15948
+        journal: Proc. Symp. Pure Math. 107 (2024) 201-218
+
       - arxiv: 2305.15965
         authors: Z.-C. Ong, M.-C. Tan
         title: |
