@@ -11,10 +11,9 @@
                 {{ $publication.authors }}
                 <br>
                 <i>
+                    arXiv:{{ $publication.arxiv }}
                     {{ with $publication.journal }}
                         {{ . }}
-                    {{ else }}
-                        arXiv:{{ $publication.arxiv }}
                     {{ end }}
                 </i>
             </ul>
