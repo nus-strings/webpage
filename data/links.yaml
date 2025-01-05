@@ -2,7 +2,7 @@
 
 content:
   - id: 1
-    title: Literature resource and discussion forums
+    title: Literature Resource and Discussion Forums
     links:
       - name: arXiv.org
         url: http://arxiv.org/
@@ -26,7 +26,7 @@ content:
   - id: 3
     title: Other Interesting Links
     links:
-      - name: What every physicist should know about string theory
+      - name: What Every Physicist Should Know About String Theory
         url: https://pubs.aip.org/physicstoday/article/68/11/38/414984/What-every-physicist-should-know-about-string
       - name: Introduction to String Theory
         url: https://arxiv.org/abs/2311.18111
