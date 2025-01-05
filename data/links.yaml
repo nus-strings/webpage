@@ -26,17 +26,19 @@ content:
   - id: 3
     title: Other Interesting Links
     links:
-      - name: The Official String Theory Website (Deprecated)
-        url: http://superstringtheory.com/
-      - name: The informative String Theory Website
-        url: http://whystringtheory.com/
-      - name: Black Holes and Qubits
-        url: https://cerncourier.com/a/black-holes-and-qubits/
-      - name: String Theory Tackles Strange Metals
-        url: http://www.nature.com/news/2010/101019/full/news.2010.547.html
+      - name: What every physicist should know about string theory
+        url: https://pubs.aip.org/physicstoday/article/68/11/38/414984/What-every-physicist-should-know-about-string
+      - name: Introduction to String Theory
+        url: https://arxiv.org/abs/2311.18111
+      - name: Holography, Application, and String Theory's Changing Nature
+        url: https://arxiv.org/abs/2205.05159
+      - name: Why Physics Is Unreasonably Good at Creating New Math
+        url: https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/
 
   - id: 4
     title: Videos
     links:
+      - name: String Theory
+        yt: n7cOlBxtKSo
       - name: String Theory and its Role in 21st Century Mathematics
         yt: e_UnaD_u1MU
