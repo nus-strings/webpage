@@ -499,3 +499,13 @@ data:
           \(A_\infty\)-categorification of Floer Homologies
         url: https://arxiv.org/abs/2412.20067
         journal:
+
+ - year: 2025
+    publications:
+      - arxiv: 2511.15953
+        authors: A. Er, M.-C. Tan
+        title: |
+          Topological 5d \(\mathcal{N}=2\) Gauge Theories: Mirror Symmetry and
+          Langlands Duality of \(A_\infty\)-categories of Floer Homologies
+        url: https://arxiv.org/abs/2511.15953
+        journal: 
