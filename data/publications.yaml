@@ -500,7 +500,7 @@ data:
         url: https://arxiv.org/abs/2412.20067
         journal:
 
- - year: 2025
+  - year: 2025
     publications:
       - arxiv: 2511.15953
         authors: A. Er, M.-C. Tan
