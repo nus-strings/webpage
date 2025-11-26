@@ -62,12 +62,12 @@ jobs:
           --destination site
 
       - name: Upload artifact (GitHub Pages)
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: ./github_pages
       - name: Upload artifact (Site Deployment)
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: site
           path: ./site
@@ -91,7 +91,7 @@ jobs:
           submodules: recursive
           fetch-depth: 0
       - name: Download artifact (GitHub Pages)
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: github-pages
           path: public
