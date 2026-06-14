@@ -122,13 +122,6 @@ fellows:
     weight: -1
 
 students:
-  - id: chengzhuo
-    name: Chengzhuo Tan
-    title: Mr.
-    email: e0952272@u.nus.edu
-    left:
-    image: images/members/chengzhuo.jpg
-    weight: -4
 
   - id: zhangcheng
     name: Zhangcheng Liu
