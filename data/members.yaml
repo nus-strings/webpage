@@ -13,6 +13,14 @@ faculty:
     weight: -1
 
 fellows:
+  - id: arif-er
+    name: Arif Er
+    title: Mr.
+    email: arif.er@u.nus.edu
+    left:
+    image: images/members/arif.jpg
+    weight: -12
+    
   - id: zhi-cong
     name: Ong Zhi-Cong
     title: Dr.
@@ -120,7 +128,7 @@ students:
     email: e0952272@u.nus.edu
     left:
     image: images/members/chengzhuo.jpg
-    weight: -5
+    weight: -4
 
   - id: zhangcheng
     name: Zhangcheng Liu
@@ -128,14 +136,6 @@ students:
     email: liuzhangcheng@u.nus.edu
     left:
     image: images/members/zhangcheng.jpg
-    weight: -4
-
-  - id: arif-er
-    name: Arif Er
-    title: Mr.
-    email: arif.er@u.nus.edu
-    left:
-    image: images/members/arif.jpg
     weight: -3
 
   - id: kee-seng
