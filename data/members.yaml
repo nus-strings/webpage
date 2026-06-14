@@ -15,7 +15,7 @@ faculty:
 fellows:
   - id: arif-er
     name: Arif Er
-    title: Mr.
+    title: Dr.
     email: arif.er@u.nus.edu
     left:
     image: images/members/arif.jpg
