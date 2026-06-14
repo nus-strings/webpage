@@ -10,7 +10,7 @@ title: "Members of the Group"
 
 {{< fellows >}}
 
-## PhD Students
+## PhD Students (Past and Present)
 
 {{< phd-students >}}
 
