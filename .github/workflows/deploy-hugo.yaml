@@ -62,12 +62,12 @@ jobs:
           --destination site
 
       - name: Upload artifact (GitHub Pages)
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: github-pages
           path: ./github_pages
       - name: Upload artifact (Site Deployment)
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: site
           path: ./site
