@@ -509,3 +509,12 @@ data:
           Langlands Duality of \(A_\infty\)-categories of Floer Homologies
         url: https://arxiv.org/abs/2511.15953
         journal: 
+
+  - year: 2026
+    publications:
+      - arxiv: 2608.19775
+        authors: A. Er, Z.-C. Liu, M.-C. Tan
+        title: |
+          Supergroup Gauged Linear Sigma Models and their Physical Mathematics
+        url: https://arxiv.org/abs/2608.19775
+        journal: 
