@@ -124,6 +124,14 @@ fellows:
 
 students:
 
+  - id: dakshin
+    name: Dakshin Prayaga
+    title: Mr.
+    email: prayaga.dakshin@u.nus.edu
+    left:
+    image: images/members/dakshin.jpg
+    weight: -4
+
   - id: zhangcheng
     name: Zhangcheng Liu
     title: Mr.
